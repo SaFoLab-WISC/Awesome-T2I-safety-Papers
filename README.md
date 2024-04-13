@@ -1,5 +1,5 @@
 # T2I-safety-Papers
-[![Update Log](https://img.shields.io/badge/💡-Update_Log-informational.svg?style=flat)](Changelog.md)
+[![Update Log](https://img.shields.io/badge/💡-Update_Log-informational.svg?style=flat)](readme.md)
 [![Report Error](https://img.shields.io/badge/🐛-Report_Error-yellow.svg?style=flat)](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/issues)
 [![Pull Request](https://img.shields.io/badge/👐-Pull_Request-brightgreen.svg?style=flat)](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/pulls)
 
