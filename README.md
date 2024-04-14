@@ -42,6 +42,12 @@
 - **🔗 Link**: [[Code]] [[arXiv:2309.14122](https://arxiv.org/abs/2309.14122)]
 - **📝 Note**:
 
+#### [6] Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models
+- **🧑‍🔬 Author**: Yiting Qu, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang
+- **🏫 Affiliation**: CISPA Helmholtz Center for Information Security, ZJU-Hangzhou Global Scientific and Technological Innovation Center, 
+- **🔗 Link**: [[Code](https://github.com/YitingQu/unsafe-diffusion)] [[arXiv:2305.13873](https://arxiv.org/abs/2305.13873)]
+- **📝 Note**:
+
 ---
 ## Defenses on Text-to-Image Models
 
