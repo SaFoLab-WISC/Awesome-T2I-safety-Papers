@@ -3,8 +3,20 @@
 [![Report Error](https://img.shields.io/badge/🐛-Report_Error-yellow.svg?style=flat)](https://github.com/Awesome-T2l-Safety/T2I-safety-Papers/issues)
 [![Pull Request](https://img.shields.io/badge/👐-Pull_Request-brightgreen.svg?style=flat)](https://github.com/Awesome-T2l-Safety/T2I-safety-Papers/pulls)
 
+A **continual** collection of papers related to safety of Text-to-Image/Text-to-Video Models (T2I/T2V Safety).
+
+
+## 🚀 The scope of our collection.
+
+💡 **Topic 1:** The Jailbreak Attack/Defense methods on T2I/T2V Models.
+   > Here, safety is defined as stopping models from following malicious instructions and generating toxic content, including violence, NSFW, privacy violation, animal abuse, child abuse, sexual, misinformation, etc.
+   (please refer to [[the system card of DALL·E3](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)])
+
+💡 **Topic 2:** The Image Watermarking for T2I Safety. 
+  > Image watermarking can be broadly divided into two types based on their purposes, namely adversarial water marking and forensic watermarking. Adversarial watermarking intentionally confuse generative models via embedding perturbations into images, thus creating anomalous adversarial examples. Forensic watermarking, on the other hand, is used for the verification, authenticity, and traceability of images.
+  
 ---
-## Jailbreak Attack on Text-to-Image Models
+## 💡 Jailbreak Attack on Text-to-Image Models
 
 #### [0] SneakyPrompt: Jailbreaking Text-to-image Generative Models 
 - **🧑‍🔬 Author**: Yuchen Yang, Bo Hui, Haolin Yuan, Neil Gong, Yinzhi Cao
@@ -46,10 +58,10 @@
 - **🧑‍🔬 Author**: Yiting Qu, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang
 - **🏫 Affiliation**: CISPA Helmholtz Center for Information Security, Delft University of Technology 
 - **🔗 Link**: [[Code](https://github.com/YitingQu/unsafe-diffusion)] [[arXiv:2305.13873](https://arxiv.org/abs/2305.13873)]
-- **📝 Note**:
+- **📝 Note**: 🔥 (ACM CCS 2023)
 
 ---
-## Defenses on Text-to-Image Models
+## 💡 Defenses on Text-to-Image Models
 
 #### [0] GuardT2I: Defending Text-to-Image Models from Adversarial Prompts
 - **🧑‍🔬 Author**: Yijun Yang, Ruiyuan Gao, Xiao Yang, Jianyuan Zhong, Qiang Xu
@@ -88,7 +100,7 @@
 - **📝 Note**: 
 
 ---
-## Image Watermarking for T2I Safety
+## 💡 Image Watermarking for T2I Safety
 
 #### [0] The Stable Signature: Rooting Watermarks in Latent Diffusion Models
 - **🧑‍🔬 Author**:  Pierre Fernandez, Guillaume Couairon, Herv´e J´egou, Matthijs Douze, Teddy Furon
@@ -115,5 +127,5 @@
 - **📝 Note**: CVPR 2024
 
 
-### Acknowledgement
+### 👍 Acknowledgement
 Thanks to the [3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers).
