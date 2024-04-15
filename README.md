@@ -81,6 +81,7 @@
 - **🔗 Link**: [[Code](https://github.com/VinAIResearch/Anti-DreamBooth)] [[arXiv:2303.15433](https://arxiv.org/abs/2303.15433)]
 - **📝 Note**: ICCV 2023
 
+---
 ## Image Watermarking for T2I Safety
 
 #### [0] Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models
