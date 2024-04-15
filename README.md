@@ -85,7 +85,7 @@
 ## Image Watermarking for T2I Safety
 
 #### [0] Tree-Rings Watermarks: Invisible Fingerprints for Diffusion Images
-- **🧑‍🔬 Author**: Zijin Yang, Kai Zeng, Kejiang Chen, Han Fang, Weiming Zhang, Nenghai Yu
+- **🧑‍🔬 Author**: Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein
 - **🏫 Affiliation**: University of Maryland
 - **🔗 Link**: [[Code](https://github.com/YuxinWenRick/tree-ring-watermark)] [[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/b54d1757c190ba20dbc4f9e4a2f54149-Paper-Conference.pdf)]
 - **📝 Note**: NeurIPS 2023
