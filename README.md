@@ -81,6 +81,12 @@
 - **🔗 Link**: [[Code](https://github.com/VinAIResearch/Anti-DreamBooth)] [[arXiv:2303.15433](https://arxiv.org/abs/2303.15433)]
 - **📝 Note**: ICCV 2023
 
+#### [5] Latent Guard: a Safety Framework for Text-to-image Generation
+- **🧑‍🔬 Author**: Runtao Liu, Ashkan Khakzar, Jindong Gu, Qifeng Chen, Philip Torr, and Fabio Pizzati
+- **🏫 Affiliation**: Hong Kong University of Science and Technology, University of Oxford,
+- **🔗 Link**: [[Code]] [[arXiv:2404.08031](https://arxiv.org/abs/2404.08031)]
+- **📝 Note**: 
+
 ---
 ## Image Watermarking for T2I Safety
 
