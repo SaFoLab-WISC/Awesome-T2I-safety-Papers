@@ -84,19 +84,25 @@
 ---
 ## Image Watermarking for T2I Safety
 
-#### [0] Tree-Rings Watermarks: Invisible Fingerprints for Diffusion Images
+#### [0] The Stable Signature: Rooting Watermarks in Latent Diffusion Models
+- **🧑‍🔬 Author**:  Pierre Fernandez, Guillaume Couairon, Herv´e J´egou, Matthijs Douze, Teddy Furon
+- **🏫 Affiliation**: Meta AI, Centre Inria de l’Universit´ e de Rennes, Sorbonne University
+- **🔗 Link**: [[Code](https://github.com/facebookresearch/stable_signature)] [[arXiv:2303.15435](https://arxiv.org/abs/2303.15435)]
+- **📝 Note**: ICCV 2023
+
+#### [1] Tree-Rings Watermarks: Invisible Fingerprints for Diffusion Images
 - **🧑‍🔬 Author**: Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein
 - **🏫 Affiliation**: University of Maryland
 - **🔗 Link**: [[Code](https://github.com/YuxinWenRick/tree-ring-watermark)] [[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/b54d1757c190ba20dbc4f9e4a2f54149-Paper-Conference.pdf)]
 - **📝 Note**: NeurIPS 2023
   
-#### [1] Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models
+#### [2] Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models
 - **🧑‍🔬 Author**: Zijin Yang, Kai Zeng, Kejiang Chen, Han Fang, Weiming Zhang, Nenghai Yu
 - **🏫 Affiliation**: University of Science and Technology of China, National University of Singapore
 - **🔗 Link**: [Code] [[arXiv:2404.04956](https://arxiv.org/abs/2404.04956)]
 - **📝 Note**: CVPR 2024
 
-#### [2] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection
+#### [3] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection
 - **🧑‍🔬 Author**: Xuanyu Zhang, Runyi Li, Jiwen Yu, Youmin Xu, Weiqi Li, Jian Zhang
 - **🏫 Affiliation**: Peking University
 - **🔗 Link**: [[Code](https://github.com/xuanyuzhang21/EditGuard)] [[arXiv:2312.08883](https://arxiv.org/abs/2312.08883)]
