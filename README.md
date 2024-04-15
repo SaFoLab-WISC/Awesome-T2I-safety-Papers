@@ -54,19 +54,19 @@
 #### [0] GuardT2I: Defending Text-to-Image Models from Adversarial Prompts
 - **🧑‍🔬 Author**: Yijun Yang, Ruiyuan Gao, Xiao Yang, Jianyuan Zhong, Qiang Xu
 - **🏫 Affiliation**: The Chinese University of Hong Kong, Hong Kong,  Tsinghua University
-- **🔗 Link**: [[Code]] [[arXiv:2403.01446](https://arxiv.org/abs/2403.01446)]
+- **🔗 Link**: [Code] [[arXiv:2403.01446](https://arxiv.org/abs/2403.01446)]
 - **📝 Note**:
 
 #### [1] Universal Prompt Optimizer for Safe Text-to-Image Generation
 - **🧑‍🔬 Author**: Zongyu Wu, Hongcheng Gao, Yueze Wang, Xiang Zhang, Suhang Wang
 - **🏫 Affiliation**: The Pennsylvania State University, University of Chinese Academy of Sciences, Tianjin University
-- **🔗 Link**: [[Code]] [[arXiv:2402.10882](https://arxiv.org/abs/2402.10882)]
+- **🔗 Link**: [Code] [[arXiv:2402.10882](https://arxiv.org/abs/2402.10882)]
 - **📝 Note**: 
 
 #### [2] SAFEGEN: Mitigating Unsafe Content Generation in Text-to-Image Models
 - **🧑‍🔬 Author**: Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu
 - **🏫 Affiliation**: USSLAB, Zhejiang University, Johns Hopkins University
-- **🔗 Link**: [[Code]] [[arXiv:2404.06666](https://arxiv.org/abs/2404.06666)]
+- **🔗 Link**: [Code] [[arXiv:2404.06666](https://arxiv.org/abs/2404.06666)]
 - **📝 Note**:
 
 #### [3] Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples
@@ -84,13 +84,19 @@
 ---
 ## Image Watermarking for T2I Safety
 
-#### [0] Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models
+#### [0] Tree-Rings Watermarks: Invisible Fingerprints for Diffusion Images
 - **🧑‍🔬 Author**: Zijin Yang, Kai Zeng, Kejiang Chen, Han Fang, Weiming Zhang, Nenghai Yu
 - **🏫 Affiliation**: University of Science and Technology of China, National University of Singapore
-- **🔗 Link**: [[Code]] [[arXiv:2404.04956](https://arxiv.org/abs/2404.04956)]
+- **🔗 Link**: [[Code](https://github.com/YuxinWenRick/tree-ring-watermark)] [[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/b54d1757c190ba20dbc4f9e4a2f54149-Paper-Conference.pdf)]
+- **📝 Note**: NeurIPS 2023
+  
+#### [1] Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models
+- **🧑‍🔬 Author**: Zijin Yang, Kai Zeng, Kejiang Chen, Han Fang, Weiming Zhang, Nenghai Yu
+- **🏫 Affiliation**: University of Science and Technology of China, National University of Singapore
+- **🔗 Link**: [Code] [[arXiv:2404.04956](https://arxiv.org/abs/2404.04956)]
 - **📝 Note**: CVPR 2024
 
-#### [1] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection
+#### [2] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection
 - **🧑‍🔬 Author**: Xuanyu Zhang, Runyi Li, Jiwen Yu, Youmin Xu, Weiqi Li, Jian Zhang
 - **🏫 Affiliation**: Peking University
 - **🔗 Link**: [[Code](https://github.com/xuanyuzhang21/EditGuard)] [[arXiv:2312.08883](https://arxiv.org/abs/2312.08883)]
