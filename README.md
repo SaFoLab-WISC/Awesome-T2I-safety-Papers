@@ -63,12 +63,38 @@
 - **🔗 Link**: [[Code]] [[arXiv:2402.10882](https://arxiv.org/abs/2402.10882)]
 - **📝 Note**: 
 
-
 #### [2] SAFEGEN: Mitigating Unsafe Content Generation in Text-to-Image Models
 - **🧑‍🔬 Author**: Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu
 - **🏫 Affiliation**: USSLAB, Zhejiang University, Johns Hopkins University
 - **🔗 Link**: [[Code]] [[arXiv:2404.06666](https://arxiv.org/abs/2404.06666)]
-- **📝 Note**: 
+- **📝 Note**:
+
+#### [3] Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples
+- **🧑‍🔬 Author**: Chumeng Liang, Xiaoyu Wu, Yang Hua, Jiaru Zhang, Yiming Xue, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan
+- **🏫 Affiliation**: USSLAB, Zhejiang University, Johns Hopkins University
+- **🔗 Link**: [[Code](https://github.com/psyker-team/mist)] [[arXiv:2302.04578](https://arxiv.org/abs/2302.04578)]
+- **📝 Note**: ICML 2023 (Oral)
+
+#### [4] Anti-DreamBooth: Protecting Users from Personalized Text-to-Image Synthesis
+- **🧑‍🔬 Author**: Thanh Van Le, Hao Phung, Thuan Hoang Nguyen, Quan Dao, Ngoc Tran, Anh Tran
+- **🏫 Affiliation**: VinAI Research, Vanderbilt University
+- **🔗 Link**: [[Code](https://github.com/VinAIResearch/Anti-DreamBooth)] [[arXiv:2303.15433](https://arxiv.org/abs/2303.15433)]
+- **📝 Note**: ICCV 2023
+
+## Image Watermarking for T2I Safety
+
+#### [0] Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models
+- **🧑‍🔬 Author**: Zijin Yang, Kai Zeng, Kejiang Chen, Han Fang, Weiming Zhang, Nenghai Yu
+- **🏫 Affiliation**: University of Science and Technology of China, National University of Singapore
+- **🔗 Link**: [[Code]] [[arXiv:2404.04956](https://arxiv.org/abs/2404.04956)]
+- **📝 Note**: CVPR 2024
+
+#### [1] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection
+- **🧑‍🔬 Author**: Xuanyu Zhang, Runyi Li, Jiwen Yu, Youmin Xu, Weiqi Li, Jian Zhang
+- **🏫 Affiliation**: Peking University
+- **🔗 Link**: [[Code](https://github.com/xuanyuzhang21/EditGuard)] [[arXiv:2312.08883](https://arxiv.org/abs/2312.08883)]
+- **📝 Note**: CVPR 2024
+
 
 ### Acknowledgement
 Thanks to the [3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers).
