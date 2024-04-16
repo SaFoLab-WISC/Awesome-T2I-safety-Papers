@@ -13,7 +13,7 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
    (please refer to [[the system card of DALL·E3](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)])
 
 💡 **Topic 2:** The Image Watermarking for T2I Safety. 
-  > Image watermarking can be broadly divided into two types based on their purposes, namely adversarial water marking and forensic watermarking. Adversarial watermarking intentionally confuse generative models via embedding perturbations into images, thus creating anomalous adversarial examples. Forensic watermarking, on the other hand, is used for the verification, authenticity, and traceability of images.
+  > Image watermarking can be broadly used for the verification, authenticity, and traceability of images. It can also trace the copyright and ownership of the T2I models.
   
 ---
 ## 💡 Jailbreak Attack on Text-to-Image Models
