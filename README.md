@@ -1,4 +1,4 @@
-# T2I-safety-Papers
+# Awesome-T2I-safety-Papers
 [![Update Log](https://img.shields.io/badge/💡-Update_Log-informational.svg?style=flat)](README.md)
 [![Report Error](https://img.shields.io/badge/🐛-Report_Error-yellow.svg?style=flat)](https://github.com/Awesome-T2l-Safety/T2I-safety-Papers/issues)
 [![Pull Request](https://img.shields.io/badge/👐-Pull_Request-brightgreen.svg?style=flat)](https://github.com/Awesome-T2l-Safety/T2I-safety-Papers/pulls)
