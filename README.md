@@ -13,7 +13,7 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
    (please refer to [[the system card of DALL·E3](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)])
 
 💡 **Topic 2:** Digital Watermarking for T2I Safety. 
-  > Digital Watermarking can be broadly used for the verification, authenticity, and traceability of images. It can also trace the copyright and ownership of the T2I models.
+  > Digital Watermarking is broadly used for the verification, authenticity, and traceability of images. It can also trace the copyright and ownership of the T2I models.
   
 ---
 ## 💡 Jailbreak Attack on Text-to-Image Models
