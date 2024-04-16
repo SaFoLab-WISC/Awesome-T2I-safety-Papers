@@ -12,8 +12,8 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
    > Here, safety is defined as stopping models from following malicious instructions and generating toxic content, including violence, NSFW, privacy violation, animal abuse, child abuse, sexual, misinformation, etc.
    (please refer to [[the system card of DALL·E3](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)])
 
-💡 **Topic 2:** The Image Watermarking for T2I Safety. 
-  > Image watermarking can be broadly used for the verification, authenticity, and traceability of images. It can also trace the copyright and ownership of the T2I models.
+💡 **Topic 2:** Digital Watermarking for T2I Safety. 
+  > Digital Watermarking can be broadly used for the verification, authenticity, and traceability of images. It can also trace the copyright and ownership of the T2I models.
   
 ---
 ## 💡 Jailbreak Attack on Text-to-Image Models
@@ -100,7 +100,7 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **📝 Note**: 
 
 ---
-## 💡 Image Watermarking for T2I Safety
+## 💡 Digital Watermarking for T2I Safety
 
 #### [0] The Stable Signature: Rooting Watermarks in Latent Diffusion Models
 - **🧑‍🔬 Author**:  Pierre Fernandez, Guillaume Couairon, Herv´e J´egou, Matthijs Douze, Teddy Furon
