@@ -6,7 +6,7 @@
 A **continual** collection of papers related to safety of Text-to-Image/Text-to-Video Models (T2I/T2V Safety).
 
 
-## 🚀 The scope of our collection.
+## 🚀 The scope of our collection
 
 💡 **Topic 1:** The Jailbreak Attack/Defense methods on T2I/T2V Models.
    > Here, safety is defined as stopping models from following malicious instructions and generating toxic content, including violence, NSFW, privacy violation, animal abuse, child abuse, sexual, misinformation, etc.
