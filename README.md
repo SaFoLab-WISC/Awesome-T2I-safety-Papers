@@ -96,7 +96,7 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 #### [5] Latent Guard: a Safety Framework for Text-to-image Generation
 - **🧑‍🔬 Author**: Runtao Liu, Ashkan Khakzar, Jindong Gu, Qifeng Chen, Philip Torr, and Fabio Pizzati
 - **🏫 Affiliation**: Hong Kong University of Science and Technology, University of Oxford,
-- **🔗 Link**: [[Code]] [[arXiv:2404.08031](https://arxiv.org/abs/2404.08031)]
+- **🔗 Link**: [Code] [[arXiv:2404.08031](https://arxiv.org/abs/2404.08031)]
 - **📝 Note**: 
 
 ---
@@ -126,53 +126,65 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🔗 Link**: [[Code](https://github.com/xuanyuzhang21/EditGuard)] [[arXiv:2312.08883](https://arxiv.org/abs/2312.08883)]
 - **📝 Note**: CVPR 2024
 
-#### [4] ProMark: Proactive Diffusion Watermarking for Causal Attribution
+#### [4] Purified and Unified Steganographic Network
+- **🧑‍🔬 Author**: Guobiao Li, Sheng Li, Zicong Luo, Zhenxing Qian, Xinpeng Zhang
+- **🏫 Affiliation**: Peking University
+- **🔗 Link**: [[Code](https://github.com/albblgb/PUSNet)] [[arXiv:2402.17210](https://arxiv.org/abs/2402.17210)]
+- **📝 Note**: CVPR 2024
+
+#### [5] ProMark: Proactive Diffusion Watermarking for Causal Attribution
 - **🧑‍🔬 Author**: Vishal Asnani, John Collomosse, Tu Bui, Xiaoming Liu, Shruti Agarwal
 - **🏫 Affiliation**: Adobe Research, Michigan State University, University of Surrey
 - **🔗 Link**: [Code] [[arXiv:2403.09914](https://arxiv.org/abs/2403.09914)]
 - **📝 Note**: CVPR 2024
 
-#### [5] Performance-lossless Black-box Model Watermarking
+#### [6] Performance-lossless Black-box Model Watermarking
 - **🧑‍🔬 Author**: Na Zhao, Kejiang Chen, Weiming Zhang, and Nenghai Yu
 - **🏫 Affiliation**: University of Science and Technology of China
 - **🔗 Link**: [Code] [[arXiv:2312.06488](https://arxiv.org/abs/2312.06488)]
 - **📝 Note**: IEEE TDSC 2023
 
-#### [6] Detecting Voice Cloning Attacks via Timbre Watermarking
+#### [7] Detecting Voice Cloning Attacks via Timbre Watermarking
 - **🧑‍🔬 Author**: Chang Liu, Jie Zhang, Tianwei Zhang, Xi Yang, Weiming Zhang, Nenghai Yu
 - **🏫 Affiliation**: University of Science and Technology of China, Nanyang Technological University
 - **🔗 Link**: [[Code](https://timbrewatermarking.github.io/samples)] [[arXiv:2312.03410](https://arxiv.org/abs/2312.03410)]
 - **📝 Note**: NDSS 2024
 
-#### [7] WavMark: Watermarking for Audio Generation
+#### [8] WavMark: Watermarking for Audio Generation
 - **🧑‍🔬 Author**: Guangyu Chen, Yu Wu, Shujie Liu, Tao Liu, Xiaoyong Du, Furu Wei
 - **🏫 Affiliation**: Microsoft Research Asia, Renmin University of China
 - **🔗 Link**: [[Code](https://github.com/wavmark/wavmark)] [[arXiv:2308.12770](https://arxiv.org/abs/2308.12770)]
 - **📝 Note**:
 
-#### [8] A Watermark-Conditioned Diffusion Model for IP Protection
-- **🧑‍🔬 Author**: Rui Min, Sen Li, Hongyang Chen, Minhao Cheng
-- **🏫 Affiliation**: Hong Kong University of Science and Technology, Zhejiang Lab, Pennsylvania State University
-- **🔗 Link**: [Code] [[arXiv:2403.10893](https://arxiv.org/abs/2403.10893)]
+#### [9] Steal My Artworks for Fine-tuning? A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models
+- **🧑‍🔬 Author**: Ge Luo, Junqiang Huang, Manman Zhang, Zhenxing Qian, Sheng Li, Xinpeng Zhang
+- **🏫 Affiliation**: Fudan University
+- **🔗 Link**: [Code] [[arXiv:2311.13619](https://arxiv.org/abs/2311.13619)]
 - **📝 Note**:
 
-#### [9] Robust-Wide: Robust Watermarking against Instruction-driven Image Editing
+#### [10] Robust-Wide: Robust Watermarking against Instruction-driven Image Editing
 - **🧑‍🔬 Author**: Runyi Hu, Jie Zhang, Ting Xu, Tianwei Zhang, Jiwei Li
 - **🏫 Affiliation**: Zhejiang University, Nanyang Technological University, University of Science and Technology of China
 - **🔗 Link**: [Code] [[arXiv:2402.12688](https://arxiv.org/abs/2402.12688)]
 - **📝 Note**:
 
-#### [10] Robust Image Watermarking using Stable Diffusion
+#### [11] Robust Image Watermarking using Stable Diffusion
 - **🧑‍🔬 Author**: Lijun Zhang, Xiao Liu, Antoni Viros Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan
 - **🏫 Affiliation**: University of Massachusetts, IBM
 - **🔗 Link**: [[Code](https://github.com/zhanglijun95/ZoDiac)] [[arXiv:2401.04247](https://arxiv.org/abs/2401.04247)]
 - **📝 Note**:
 
-#### [11] Proactive Detection of Voice Cloning with Localized Watermarking
+#### [12] Proactive Detection of Voice Cloning with Localized Watermarking
 - **🧑‍🔬 Author**: Robin San Roman, Pierre Fernandez, Alexandre Défossez, Teddy Furon, Tuan Tran, Hady Elsahar
 - **🏫 Affiliation**: FAIR, Meta
 - **🔗 Link**: [[Code](https://github.com/facebookresearch/audioseal)] [[arXiv:2401.17264](https://arxiv.org/abs/2401.17264)]
-- **📝 Note**: 
+- **📝 Note**:
+
+#### [13] A Watermark-Conditioned Diffusion Model for IP Protection
+- **🧑‍🔬 Author**: Rui Min, Sen Li, Hongyang Chen, Minhao Cheng
+- **🏫 Affiliation**: Hong Kong University of Science and Technology, Zhejiang Lab, Pennsylvania State University
+- **🔗 Link**: [Code] [[arXiv:2403.10893](https://arxiv.org/abs/2403.10893)]
+- **📝 Note**:
 
 
 ### 👍 Acknowledgement
