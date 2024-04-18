@@ -126,6 +126,36 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🔗 Link**: [[Code](https://github.com/xuanyuzhang21/EditGuard)] [[arXiv:2312.08883](https://arxiv.org/abs/2312.08883)]
 - **📝 Note**: CVPR 2024
 
+#### [4] ProMark: Proactive Diffusion Watermarking for Causal Attribution
+- **🧑‍🔬 Author**: Vishal Asnani, John Collomosse, Tu Bui, Xiaoming Liu, Shruti Agarwal
+- **🏫 Affiliation**: Adobe Research, Michigan State University, University of Surrey
+- **🔗 Link**: [Code] [[arXiv:2403.09914](https://arxiv.org/abs/2403.09914)]
+- **📝 Note**: CVPR 2024
+
+#### [5] A Watermark-Conditioned Diffusion Model for IP Protection
+- **🧑‍🔬 Author**: Rui Min, Sen Li, Hongyang Chen, Minhao Cheng
+- **🏫 Affiliation**: Hong Kong University of Science and Technology, Zhejiang Lab, Pennsylvania State University
+- **🔗 Link**: [Code] [[arXiv:2403.10893](https://arxiv.org/abs/2403.10893)]
+- **📝 Note**:
+
+#### [6] Detecting Voice Cloning Attacks via Timbre Watermarking
+- **🧑‍🔬 Author**: Chang Liu, Jie Zhang, Tianwei Zhang, Xi Yang, Weiming Zhang, Nenghai Yu
+- **🏫 Affiliation**: University of Science and Technology of China, Nanyang Technological University
+- **🔗 Link**: [[Code](https://timbrewatermarking.github.io/samples)] [[arXiv:2312.03410](https://arxiv.org/abs/2312.03410)]
+- **📝 Note**: NDSS 2024
+
+#### [7] WavMark: Watermarking for Audio Generation
+- **🧑‍🔬 Author**: Guangyu Chen, Yu Wu, Shujie Liu, Tao Liu, Xiaoyong Du, Furu Wei
+- **🏫 Affiliation**: Microsoft Research Asia, Renmin University of China
+- **🔗 Link**: [[Code](https://github.com/wavmark/wavmark)] [[arXiv:2308.12770](https://arxiv.org/abs/2308.12770)]
+- **📝 Note**:
+
+#### [8] Proactive Detection of Voice Cloning with Localized Watermarking
+- **🧑‍🔬 Author**: Guangyu Chen, Yu Wu, Shujie Liu, Tao Liu, Xiaoyong Du, Furu Wei
+- **🏫 Affiliation**: Robin San Roman, Pierre Fernandez, Alexandre Défossez, Teddy Furon, Tuan Tran, Hady Elsahar
+- **🔗 Link**: [[Code](https://github.com/facebookresearch/audioseal)] [[arXiv:2401.17264](https://arxiv.org/abs/2401.17264)]
+- **📝 Note**: 
+
 
 ### 👍 Acknowledgement
 Thanks to the [3D-Gaussian-Splatting-Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers).
