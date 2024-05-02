@@ -65,6 +65,13 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🔗 Link**: [[Code](https://github.com/YitingQu/unsafe-diffusion)] [[arXiv:2305.13873](https://arxiv.org/abs/2305.13873)]
 - **📝 Note**: 🔥 (ACM CCS 2023)
 
+#### [6] Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective
+- **🧑‍🔬 Author**: Xiaoxuan Han and Songlin Yang and Wei Wang and Yang Li and Jing Dong
+- **🏫 Affiliation**: University of Chinese Academy of Sciences
+- **🔗 Link**: [[Code](https://github.com/hxxdtd/PUND)] [[arXiv:2305.13873](https://arxiv.org/abs/2404.19382)]
+- **📝 Note**: 30 Apr 2024 Arxiv
+
+
 ---
 ## 💡 Defenses on Text-to-Image Models
 
