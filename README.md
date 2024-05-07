@@ -68,9 +68,15 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 #### [7] Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective
 - **🧑‍🔬 Author**: Xiaoxuan Han and Songlin Yang and Wei Wang and Yang Li and Jing Dong
 - **🏫 Affiliation**: University of Chinese Academy of Sciences
-- **🔗 Link**: [[Code](https://github.com/hxxdtd/PUND)] [[arXiv:2305.13873](https://arxiv.org/abs/2404.19382)]
+- **🔗 Link**: [[Code](https://github.com/hxxdtd/PUND)] [[arXiv:2404.19382](https://arxiv.org/abs/2404.19382)]
 - **📝 Note**: 30 Apr 2024 Arxiv
 
+#### [8] UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images
+- **🧑‍🔬 Author**: Yiting Qu, Xinyue Shen, Yixin Wu, Michael Backes, Savvas Zannettou, Yang Zhang
+- **🏫 Affiliation**: CISPA Helmholtz Center for Information Security, TU Delf
+- **🔗 Link**: [[Code](https://github.com/YitingQu/UnsafeBench)] [[arXiv:2405.03486](https://arxiv.org/abs/2405.03486)]
+- **📝 Note**: 30 Apr 2024 Arxiv
+  
 
 ---
 ## 💡 Defenses on Text-to-Image Models
