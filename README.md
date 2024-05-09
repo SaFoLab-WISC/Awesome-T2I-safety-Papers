@@ -63,15 +63,9 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🧑‍🔬 Author**: Xiaoxuan Han and Songlin Yang and Wei Wang and Yang Li and Jing Dong
 - **🏫 Affiliation**: University of Chinese Academy of Sciences
 - **🔗 Link**: [[Code](https://github.com/hxxdtd/PUND)] [[arXiv:2404.19382](https://arxiv.org/abs/2404.19382)]
-- **📝 Note**: 30 Apr 2024 Arxiv
-
-#### [7] Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective
-- **🧑‍🔬 Author**: Xiaoxuan Han, Songlin Yang, Wei Wang, Yang Li, Jing Dong
-- **🏫 Affiliation**: University of Chinese Academy of Sciences
-- **🔗 Link**: [[Code]()] [[arXiv:2404.19382](https://arxiv.org/abs/2404.19382)]
 - **📝 Note**: Adversarial Concept Restoration
- 
----
+
+
 ## 💡 Defenses on Text-to-Image Models
 
 #### [0] GuardT2I: Defending Text-to-Image Models from Adversarial Prompts
