@@ -59,25 +59,18 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🔗 Link**: [[Code]] [[arXiv:2309.14122](https://arxiv.org/abs/2309.14122)]
 - **📝 Note**:
 
-#### [6] Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models
-- **🧑‍🔬 Author**: Yiting Qu, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang
-- **🏫 Affiliation**: CISPA Helmholtz Center for Information Security, Delft University of Technology 
-- **🔗 Link**: [[Code](https://github.com/YitingQu/unsafe-diffusion)] [[arXiv:2305.13873](https://arxiv.org/abs/2305.13873)]
-- **📝 Note**: 🔥 (ACM CCS 2023)
-
-#### [7] Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective
+#### [6] Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective
 - **🧑‍🔬 Author**: Xiaoxuan Han and Songlin Yang and Wei Wang and Yang Li and Jing Dong
 - **🏫 Affiliation**: University of Chinese Academy of Sciences
 - **🔗 Link**: [[Code](https://github.com/hxxdtd/PUND)] [[arXiv:2404.19382](https://arxiv.org/abs/2404.19382)]
 - **📝 Note**: 30 Apr 2024 Arxiv
 
-#### [8] UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images
-- **🧑‍🔬 Author**: Yiting Qu, Xinyue Shen, Yixin Wu, Michael Backes, Savvas Zannettou, Yang Zhang
-- **🏫 Affiliation**: CISPA Helmholtz Center for Information Security, TU Delf
-- **🔗 Link**: [[Code](https://github.com/YitingQu/UnsafeBench)] [[arXiv:2405.03486](https://arxiv.org/abs/2405.03486)]
-- **📝 Note**: 30 Apr 2024 Arxiv
-  
-
+#### [7] Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective
+- **🧑‍🔬 Author**: Xiaoxuan Han, Songlin Yang, Wei Wang, Yang Li, Jing Dong
+- **🏫 Affiliation**: University of Chinese Academy of Sciences
+- **🔗 Link**: [[Code]()] [[arXiv:2404.19382](https://arxiv.org/abs/2404.19382)]
+- **📝 Note**: Adversarial Concept Restoration
+ 
 ---
 ## 💡 Defenses on Text-to-Image Models
 
@@ -115,9 +108,24 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🧑‍🔬 Author**: Runtao Liu, Ashkan Khakzar, Jindong Gu, Qifeng Chen, Philip Torr, and Fabio Pizzati
 - **🏫 Affiliation**: Hong Kong University of Science and Technology, University of Oxford,
 - **🔗 Link**: [Code] [[arXiv:2404.08031](https://arxiv.org/abs/2404.08031)]
-- **📝 Note**: 
-
+- **📝 Note**:
+  
 ---
+## 💡 Evaluation on Jailbreak Text-to-Image Models
+
+#### [0] UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images
+- **🧑‍🔬 Author**: Yiting Qu, Xinyue Shen, Yixin Wu, Michael Backes, Savvas Zannettou, Yang Zhang
+- **🏫 Affiliation**: CISPA Helmholtz Center for Information Security, TU Delf
+- **🔗 Link**: [[Code](https://github.com/YitingQu/UnsafeBench)] [[arXiv:2405.03486](https://arxiv.org/abs/2405.03486)]
+- **📝 Note**: 30 Apr 2024 Arxiv
+
+#### [1] Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models
+- **🧑‍🔬 Author**: Yiting Qu, Xinyue Shen, Xinlei He, Michael Backes, Savvas Zannettou, Yang Zhang
+- **🏫 Affiliation**: CISPA Helmholtz Center for Information Security, Delft University of Technology 
+- **🔗 Link**: [[Code](https://github.com/YitingQu/unsafe-diffusion)] [[arXiv:2305.13873](https://arxiv.org/abs/2305.13873)]
+- **📝 Note**: 🔥 (ACM CCS 2023)
+
+
 ## 💡 Digital Watermarking for T2I Safety
 
 #### [0] The Stable Signature: Rooting Watermarks in Latent Diffusion Models
