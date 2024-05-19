@@ -65,6 +65,12 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🔗 Link**: [[Code](https://github.com/hxxdtd/PUND)] [[arXiv:2404.19382](https://arxiv.org/abs/2404.19382)]
 - **📝 Note**: Adversarial Concept Restoration
 
+#### [7] Adversarial Nibbler: An Open Red-Teaming Method for Identifying Diverse Harms in Text-to-Image Generation
+- **🧑‍🔬 Author**: Jessica Quaye, Alicia Parrish, Oana Inel, Charvi Rastogi, Hannah Rose Kirk, Minsuk Kahng, Erin van Liemt, Max Bartolo, Jess Tsang, Justin White, Nathan Clement, Rafael Mosquera, Juan Ciro, Vijay Janapa Reddi, Lora Aroyo
+- **🏫 Affiliation**: Harvard University, Google Research, University of Zurich, Carnegie Mellon University, University of Oxford, University College London, Cohere, MLCommon
+- **🔗 Link**: [[Code](https://github.com/google-research-datasets/adversarial-nibbler)] [[arXiv:2403.12075](https://arxiv.org/abs/2403.12075)]
+- **📝 Note**: Adversarial Nibbler Dataset
+
 
 ## 💡 Defenses on Text-to-Image Models
 
