@@ -74,7 +74,7 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 #### [8] Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models
 - **🧑‍🔬 Author**: Jiachen Ma, Anda Cao, Zhiqing Xiao, Jie Zhang, Chao Ye, Junbo Zhao
 - **🏫 Affiliation**: Zhejiang University, ETH Zurich
-- **🔗 Link**: [[Code]()] [[arXiv:2404.02928](https://arxiv.org/abs/2404.02928)]
+- **🔗 Link**: [[Code]] [[arXiv:2404.02928](https://arxiv.org/abs/2404.02928)]
 - **📝 Note**: Adversarial Nibbler Dataset
 
 
