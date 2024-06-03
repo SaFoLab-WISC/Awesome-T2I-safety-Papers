@@ -75,9 +75,13 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🧑‍🔬 Author**: Jiachen Ma, Anda Cao, Zhiqing Xiao, Jie Zhang, Chao Ye, Junbo Zhao
 - **🏫 Affiliation**: Zhejiang University, ETH Zurich
 - **🔗 Link**: [[Code]] [[arXiv:2404.02928](https://arxiv.org/abs/2404.02928)]
-- **📝 Note**: Adversarial Nibbler Dataset
+- **📝 Note**:
 
-
+#### [9]  UPAM: Unified Prompt Attack in Text-to-Image Generation Models Against Both Textual Filters and Visual Checkers
+- **🧑‍🔬 Author**: Duo Peng, Qiuhong Ke, Jun Liu
+- **🏫 Affiliation**: Singapore University of Technology and Design, Monash University.
+- **🔗 Link**: [[Code]] [[arXiv:2405.11336](https://arxiv.org/abs/2405.11336)]
+- **📝 Note**: 🔥  ICML 2024
 
 
 ## 💡 Defenses on Text-to-Image Models
