@@ -101,8 +101,8 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 #### [2] SAFEGEN: Mitigating Unsafe Content Generation in Text-to-Image Models
 - **🧑‍🔬 Author**: Xinfeng Li, Yuchen Yang, Jiangyi Deng, Chen Yan, Yanjiao Chen, Xiaoyu Ji, Wenyuan Xu
 - **🏫 Affiliation**: USSLAB, Zhejiang University, Johns Hopkins University
-- **🔗 Link**: [Code] [[arXiv:2404.06666](https://arxiv.org/abs/2404.06666)]
-- **📝 Note**:
+- **🔗 Link**: [[Code](https://github.com/LetterLiGo/SafeGen_CCS2024)] [[arXiv:2404.06666](https://arxiv.org/abs/2404.06666)]
+- **📝 Note**: 🔥 ACM CCS 2024
 
 #### [3] Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples
 - **🧑‍🔬 Author**: Chumeng Liang, Xiaoyu Wu, Yang Hua, Jiaru Zhang, Yiming Xue, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan
