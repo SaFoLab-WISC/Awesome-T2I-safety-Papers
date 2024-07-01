@@ -45,7 +45,7 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🧑‍🔬 Author**: Xinyue Shen, Yiting Qu, Michael Backes, Yang Zhang
 - **🏫 Affiliation**: CISPA Helmholtz Center for Information Security
 - **🔗 Link**: [[Code]] [[arXiv:2302.09923](https://arxiv.org/abs/2302.09923)]
-- **📝 Note**: 🔥 (CVPR2024)
+- **📝 Note**: 🔥 (USENIX Security 2024)
 
 #### [4] Divide-and-Conquer Attack: Harnessing the Power of LLM to Bypass the Censorship of Text-to-Image Generation Model
 - **🧑‍🔬 Author**: Yimo Deng, Huangxun Chen
