@@ -271,7 +271,7 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 #### [0] T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models
 - **🧑‍🔬 Author**: Yibo Miao, Yifan Zhu, Yinpeng Dong, Lijia Yu, Jun Zhu, Xiao-Shan Gao
 - **🏫 Affiliation**: Chinese Academy of Sciences, Tsinghua University
-- **🔗 Link**: [arXiv:2407.05965](https://arxiv.org/abs/2407.05965)]
+- **🔗 Link**: [[arXiv:2407.05965](https://arxiv.org/abs/2407.05965)]
 - **📝 Note**:
 
 ## 💡 Defenses & Alignment on Text-to-Video Models
