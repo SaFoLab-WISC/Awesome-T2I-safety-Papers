@@ -281,6 +281,12 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🔗 Link**: [[homepage](https://sites.google.com/view/safe-sora)][[code](https://github.com/PKU-Alignment/safe-sora)] [arXiv:2406.14477](https://arxiv.org/pdf/2406.14477)]
 - **📝 Note**:
 
+#### [1] Towards Understanding Unsafe Video Generation
+- **🧑‍🔬 Author**: Yan Pang, Aiping Xiong, Yang Zhang,  Tianhao Wang
+- **🏫 Affiliation**: University of Virginia, Penn State University, CISPA Helmholtz Center for Information Security
+- **🔗 Link**: [[code](https://github.com/py85252876/UVD)] [arXiv:2407.12581](https://arxiv.org/pdf/2407.12581)]
+- **📝 Note**:
+
 
 
 ### 👍 Acknowledgement
