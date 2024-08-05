@@ -86,7 +86,15 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🧑‍🔬 Author**: Minseon Kim, Hyomin Lee, Boqing Gong, Huishuai Zhang, Sung Ju Hwang
 - **🏫 Affiliation**: KAIST, Korea University, Peiking University, DeepAuto.ai
 - **🔗 Link**: [[Code]] [[arXiv:2405.16567](https://arxiv.org/abs/2405.16567)]
-- **📝 Note**: 
+- **📝 Note**:
+
+#### [11] Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models
+- **🧑‍🔬 Author**: Shawn Shan, Wenxin Ding, Josephine Passananti, Stanley Wu, Haitao Zheng, Ben Y. Zhao
+- **🏫 Affiliation**: University of Chicago
+- **🔗 Link**: [[Code]] [[arXiv:2310.13828](https://arxiv.org/abs/2310.13828)]
+- **📝 Note**:
+
+
 
 ## 💡 Defenses & Alignment on Text-to-Image Models
 
