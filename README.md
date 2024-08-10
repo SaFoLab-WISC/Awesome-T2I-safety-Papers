@@ -94,6 +94,17 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🔗 Link**: [[Code]] [[arXiv:2310.13828](https://arxiv.org/abs/2310.13828)]
 - **📝 Note**:
 
+#### [12] Jailbreaking Text-to-Image Models with LLM-Based Agents
+- **🧑‍🔬 Author**: Yingkai Dong, Zheng Li, Xiangtao Meng, Ning Yu, Shanqing Guo
+- **🏫 Affiliation**: Shandong University, CISPA Helmholtz Center for Information Security, Netflix Eyeline Studios
+- **🔗 Link**: [[Code]] [[arXiv:2408.00523](https://arxiv.org/abs/2408.00523)]
+- **📝 Note**:
+
+#### [13] Automatic Jailbreaking of the Text-to-Image Generative AI Systems
+- **🧑‍🔬 Author**: Minseon Kim, Hyomin Lee, Boqing Gong, Huishuai Zhang, Sung Ju Hwang
+- **🏫 Affiliation**: KAIST, Korea University, Peiking University, DeepAuto.ai
+- **🔗 Link**: [[Code]] [[arXiv:2405.16567](https://arxiv.org/abs/2405.16567)]
+- **📝 Note**:
 
 
 ## 💡 Defenses & Alignment on Text-to-Image Models
