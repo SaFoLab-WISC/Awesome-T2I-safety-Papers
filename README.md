@@ -157,6 +157,21 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🔗 Link**: [Code] [[arXiv:2406.06424](https://arxiv.org/abs/2406.06424)]
 - **📝 Note**:
 
+#### [8] Direct Unlearning Optimization for Robust and Safe Text-to-Image Models
+- **🧑‍🔬 Author**: Yong-Hyun Park, Sangdoo Yun, Jin-Hwa Kim, Junho Kim, Geonhui Jang, Yonghyun Jeong, Junghyo Jo, Gayoung Lee,
+- **🏫 Affiliation**: Seoul National University, Korea University, NAVER AI Lab, NAVER Cloud, Korea Institute for Advanced Study (KIAS), AI Institute of Seoul National University or SNU AIIS
+- **🔗 Link**: [Code] [[arXiv:2406.06424](https://arxiv.org/abs/2406.06424)]
+- **📝 Note**: 
+
+
+#### [9] Erasing Concepts from Diffusion Models
+- **🧑‍🔬 Author**: Rohit Gandikota, Joanna Materzynska, Jaden Fiotto-Kaufman, David Bau
+- **🏫 Affiliation**: Northeastern University, Massachusetts Institute of Technology
+ - **🔗 Link**: [[Code](https://github.com/rohitgandikota/erasing)] [[arXiv:2303.07345](https://arxiv.org/abs/2303.07345)][[Project](https://erasing.baulab.info/)]
+- **📝 Note**:  ICCV 2023 oral
+
+
+
 ## 💡 Evaluation on Jailbreak Text-to-Image Models
 
 #### [0] UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images
@@ -170,6 +185,9 @@ A **continual** collection of papers related to safety of Text-to-Image/Text-to-
 - **🏫 Affiliation**: CISPA Helmholtz Center for Information Security, Delft University of Technology 
 - **🔗 Link**: [[Code](https://github.com/YitingQu/unsafe-diffusion)] [[arXiv:2305.13873](https://arxiv.org/abs/2305.13873)]
 - **📝 Note**: 🔥 (ACM CCS 2023)
+
+
+
 
 ## 💡 Digital Watermarking for T2I Safety
 
